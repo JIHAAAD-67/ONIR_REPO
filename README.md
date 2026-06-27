@@ -8,3 +8,6 @@ accha ekhn ami git e likhtesi and eita ke git theke vs code e pull korbo
 
 ekhn ami ekhane likhbo(VS code) 
 2 jaygay changes hobe
+
+ekhaneo likhbo(GIT) 
+2jaygay changes hobe
