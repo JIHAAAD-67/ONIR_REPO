@@ -11,3 +11,7 @@ ekhn ami ekhane likhbo(VS code)
 
 ekhaneo likhbo(GIT) 
 2jaygay changes hobe
+ 
+
+ ekhn main e kichu add korlam
+ 
